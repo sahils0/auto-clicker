@@ -7,5 +7,5 @@ How to run?
 
 ```
 g++ -O3 main.cpp -o clicker
-./clicker
+sudo ./clicker
 ```

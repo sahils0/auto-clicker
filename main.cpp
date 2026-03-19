@@ -52,7 +52,7 @@ int main()
 
     std::cout << "Auto-clicker started. Press Ctrl+C to stop." << std::endl;
 
-    double interval_seconds = 120; // Your preferred interval
+    double interval_seconds = 1; // Your preferred interval
 
     while (true)
     {
